@@ -1,0 +1,113 @@
+# LANGUAGE translation for 宠岛之奇珍物语 for the following files:
+# res://resource/ui/menu/main_menu.tscn
+# res://resource/utils/translations_keys.gd
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 宠岛之奇珍物语\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: resource/ui/menu/main_menu.tscn
+msgid "Shortcut [b][color=white]N[/color][/b] "
+msgstr ""
+
+#: resource/ui/menu/main_menu.tscn
+msgid "NEW"
+msgstr ""
+
+#: resource/ui/menu/main_menu.tscn
+msgid "Shortcut [b][color=white]L[/color][/b] "
+msgstr ""
+
+#: resource/ui/menu/main_menu.tscn
+msgid "LOAD"
+msgstr ""
+
+#: resource/ui/menu/main_menu.tscn
+msgid "Shortcut [b][color=white]S[/color][/b] "
+msgstr ""
+
+#: resource/ui/menu/main_menu.tscn
+msgid "SETTING"
+msgstr ""
+
+#: resource/ui/menu/main_menu.tscn
+msgid "Shortcut [b][color=white]ESC[/color][/b] "
+msgstr ""
+
+#: resource/ui/menu/main_menu.tscn
+msgid "QUIT"
+msgstr ""
+
+#: resource/ui/menu/main_menu.tscn
+msgid "D"
+msgstr ""
+
+#: resource/ui/menu/main_menu.tscn
+msgid "title（undefined）"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "CONSOLE_PH_VALUE"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "CONSOLE_SALINITY"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "CONSOLE_WATER_LEVEL"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "CONSOLE_TEMPERATURE"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "CONSOLE_DISSOLVED_OXYGEN"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "LEVEL：BASIC"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "LEVEL：MAGIC"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "LEVEL：EPIC"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "LEVEL：MYTHIC"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "STAGE：CHILDHOOD"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "STAGE：PUPA"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "STAGE：ADULT"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "GENDER：NONE"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "GENDER：FEMALE"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "GENDER：MALE"
+msgstr ""
