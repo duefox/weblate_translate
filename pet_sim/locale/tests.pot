@@ -1,0 +1,152 @@
+# LANGUAGE translation for 萌宠经营模拟器 for the following files:
+# res://resource/ui/menu/settings_memu.tscn
+# res://resource/data/base_item_data.gd
+# res://resource/data/buffer_data.gd
+# res://resource/ui/widgets/container/w_grid.gd
+# res://resource/utils/translations_keys.gd
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 萌宠经营模拟器\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "设置"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "音量"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "音效"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "语言"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "中文"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "英文"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "画质"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "1366*768"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "1440*900"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "1600*900"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "1920*1080"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "2560*1440"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "3840*2160"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "点击选中后立马切换到全屏状体。\n"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "全屏"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "无边框"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "窗口\n"
+msgstr ""
+
+#: resource/ui/menu/settings_memu.tscn
+msgid "返  回"
+msgstr ""
+
+#: resource/ui/widgets/container/w_grid.gd
+msgid ""
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "CONSOLE_PH_VALUE"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "CONSOLE_SALINITY"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "CONSOLE_WATER_LEVEL"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "CONSOLE_TEMPERATURE"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "CONSOLE_DISSOLVED_OXYGEN"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "品级：普通"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "品级：稀有"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "品级：罕见"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "品级：传说"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "阶段：幼年"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "阶段：化蛹"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "阶段：成年"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "性别：无"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "性别：雌"
+msgstr ""
+
+#: resource/utils/translations_keys.gd
+msgid "性别：雄"
+msgstr ""
